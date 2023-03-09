@@ -1,4 +1,4 @@
-### Olá, meu nome é **Cristhian Araujo**, bacharel em administração e técnico em informática em transição de carreira para Desenvolvedor ou Analista de dados
+### Olá, meu nome é **Cristhian Araujo**, bacharel em administração e técnico em informática em transição de carreira para Desenvolvedor
 
 
 
