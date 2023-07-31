@@ -1,4 +1,4 @@
-### Olá, meu nome é **Cristhian Araujo**, bacharel em administração e técnico em informática em transição de carreira para Desenvolvedor
+### Olá, sou Cristhian Rodrigues, bacharel em administração, técnico em informática e desenvolvedor Java Júnior
 
 
 
