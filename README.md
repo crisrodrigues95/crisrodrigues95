@@ -1,4 +1,4 @@
-### Olá, sou Cristhian Rodrigues, bacharel em administração, técnico em informática e desenvolvedor Java Júnior
+### Olá, sou Cristhian Rodrigues, desenvolvedor Java Júnior, bacharel em administração e técnico em informática.
 
 
 
